@@ -3,7 +3,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '14.0'
 
 target 'SimpleChat' do
-    pod 'AmazonIVSChat', '~> 1.0.0'
+    pod 'AmazonIVSChat', '~> 1.0.1'
     pod 'AmazonIVSPlayer', '~> 1.40.0'
 end
 

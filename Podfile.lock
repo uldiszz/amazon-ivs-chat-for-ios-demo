@@ -1,11 +1,11 @@
 PODS:
-  - AmazonIVSChat (1.0.0):
-    - AmazonIVSChat/Messaging (= 1.0.0)
-  - AmazonIVSChat/Messaging (1.0.0)
+  - AmazonIVSChat (1.0.1):
+    - AmazonIVSChat/Messaging (= 1.0.1)
+  - AmazonIVSChat/Messaging (1.0.1)
   - AmazonIVSPlayer (1.40.0)
 
 DEPENDENCIES:
-  - AmazonIVSChat (~> 1.0.0)
+  - AmazonIVSChat (~> 1.0.1)
   - AmazonIVSPlayer (~> 1.40.0)
 
 SPEC REPOS:
@@ -14,9 +14,9 @@ SPEC REPOS:
     - AmazonIVSPlayer
 
 SPEC CHECKSUMS:
-  AmazonIVSChat: 62d4e654c4b16b7e62d43048a0e548efd145f183
+  AmazonIVSChat: 874f0a77644117c9be1f6a09170ac72e9cbfdaca
   AmazonIVSPlayer: b1dbf89d0067d016ab734dc6e7ae799ea52101cd
 
-PODFILE CHECKSUM: cdb2b5e8f6d89765244bacd4f81bd279d99d889f
+PODFILE CHECKSUM: 49b98fafc62030ff10ee9f3e4cb6d2b8df6120f1
 
 COCOAPODS: 1.16.2
